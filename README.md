@@ -2,5 +2,5 @@
 
 A simple tile matching (memory game) written in Java [Java Swing and JavaFX]
 
-#ScreenShot
+# ScreenShot
 ![alt text](https://raw.githubusercontent.com/AramDonyaee/simple-memory-game/master/mg_for_readme.JPG)
